@@ -1,4 +1,3 @@
 Hi this is test file .
 http_port : 8080
 lncommit1
-lncmt2
